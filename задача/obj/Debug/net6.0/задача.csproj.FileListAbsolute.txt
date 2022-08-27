@@ -1,0 +1,15 @@
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\задача.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\задача.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\задача.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\задача.AssemblyInfo.cs
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\задача.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\задача 23\задача\bin\Debug\net6.0\задача.exe
+C:\Users\user1\Desktop\задача 23\задача\bin\Debug\net6.0\задача.deps.json
+C:\Users\user1\Desktop\задача 23\задача\bin\Debug\net6.0\задача.runtimeconfig.json
+C:\Users\user1\Desktop\задача 23\задача\bin\Debug\net6.0\задача.dll
+C:\Users\user1\Desktop\задача 23\задача\bin\Debug\net6.0\задача.pdb
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\задача.dll
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\refint\задача.dll
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\задача.pdb
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\задача.genruntimeconfig.cache
+C:\Users\user1\Desktop\задача 23\задача\obj\Debug\net6.0\ref\задача.dll
